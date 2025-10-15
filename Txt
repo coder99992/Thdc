@@ -1,0 +1,8 @@
+Bài tập thực hành
+- Tạo 1 tệp văn bản và thực hiện yêu cầu:
+Trường Đại học Công nghệ Thông tin và Truyền thông đào tạo nguồn nhân lực trình độ đại học, sau đại học; bồi dưỡng ngắn hạn; nghiên cứu khoa học và chuyển giao công nghệ đáp ứng nhu cầu của thị trường lao động và phù hợp với chiến lược Quốc gia về cách mạng công nghiệp lần thứ tư và Chương trình chuyển đối số Quốc gia, phục vụ phát triển KT- VH- XH của đất nước. Trường Đại học Công nghệ Thông tin và Truyền thông trở thành Trường Đại học ứng dụng, đa ngành, trên nền tảng số hàng đầu trong hệ thống giáo dục Đại học Việt Nam.
+Cơ cấu tổ chức của Trường Đại học Công nghệ Thông tin và Truyền thông gồm có 05 bộ phận chính: Hội đồng Trường, Ban Giám hiệu,  07 Phòng chức năng, 05 Khoa chuyên môn và 05 trung tâm/viện. 
+- Tạo một tệp tin văn bản và có nội dung như trên.
+- Đánh dấu các từ “Đại học”.
+- Thay thế các từ viết tắt sau: “Trường Đại học Công nghệ Thông tin và Truyền thông ” thành “ĐH CNTT&TT”.
+- Lưu tệp văn bản tại thư mục Desktop với tên “ICTU”.
